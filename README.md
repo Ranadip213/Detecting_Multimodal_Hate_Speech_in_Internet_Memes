@@ -43,13 +43,14 @@ Performance Evaluation:
 
 The performance of the model will be evaluated using various metrics to assess its effectiveness in classifying inputs based on both text and image data.
 
-Metrics:
-Accuracy
-Precision
-Recall
-F1 Score
-ROC AUC Score
-Confusion Matrix
+Metrics,
+Accuracy,
+Precision,
+Recall,
+F1 Score,
+ROC AUC Score,
+Confusion Matrix.
+
 Conclusion:
 
 The project aims to demonstrate the effectiveness of multimodal machine learning approaches for text and image classification tasks. By leveraging both textual and visual information, the model is expected to achieve superior performance compared to unimodal models.
@@ -60,8 +61,8 @@ Future work may involve exploring advanced multimodal architectures, incorporati
 
 References:
 
-Scikit-learn Documentation
-NLTK Documentation
-OpenCV Documentation
-Keras Documentation
-PyTorch Documentation
+Scikit-learn Documentation,
+NLTK Documentation,
+OpenCV Documentation,
+Keras Documentation,
+PyTorch Documentation.
